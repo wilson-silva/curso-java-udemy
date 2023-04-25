@@ -1,0 +1,48 @@
+
+e
+java:S1854"9Remove this useless assignment to local variable "opcao".(õÇ³“HRMAJORZ
+CODE_SMELL
+e
+java:S1854!":Remove this useless assignment to local variable "random".(¼İÅfH‘RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ô§ÄáşÿÿÿÿH’RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(áËÒöúÿÿÿÿH“RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ãÏ¡ìüÿÿÿÿH”RMAJORZ
+CODE_SMELL
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘H•RCRITICALZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(äË¡HŸRMAJORZ
+CODE_SMELL
+d	java:S106?"9Replace this use of System.out or System.err by a logger.(Èú£ÌH RMAJORZ
+CODE_SMELL
+i	java:S106P"9Replace this use of System.out or System.err by a logger.(§¶„õÿÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(²”ÁãH¢RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(úÏ¦ßH£RMAJORZ
+CODE_SMELL
+d	java:S106L"9Replace this use of System.out or System.err by a logger.(Èú£ÌH¤RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(àªØH¥RMAJORZ
+CODE_SMELL
+Z
+java:S2140)")Use "java.util.Random.nextInt()" instead.(ñãöŸüÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Z
+java:S21407")Use "java.util.Random.nextInt()" instead.(­ÓşğùÿÿÿÿH§RMINORZ
+CODE_SMELL
+Z
+java:S2140D")Use "java.util.Random.nextInt()" instead.(ÁÇ‰¹şÿÿÿÿH¨RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‹ƒ›úÿÿÿÿH©RMAJORZ
+CODE_SMELL
+d	java:S1061"9Replace this use of System.out or System.err by a logger.(Èú£ÌHªRMAJORZ
+CODE_SMELL
+V
+java:S1481!"+Remove this unused "random" local variable.(¼İÅfH«RMINORZ
+CODE_SMELL
+U	java:S131$""Add a default case to this switch.(†²·¹úÿÿÿÿH­RCRITICALZ
+CODE_SMELL

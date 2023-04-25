@@ -1,0 +1,10 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŸÕÊ8¯Óíœó0HTRMAJORZ
+CODE_SMELL
+j	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿõ™Ñ8»ıœó0H_RMAJORZ
+CODE_SMELL
+j	java:S106&"9Replace this use of System.out or System.err by a logger.(äìÎÆ8›†“ó0HvRMAJORZ
+CODE_SMELL
+k
+java:S1128"4Remove this unused import 'org.xml.sax.HandlerBase'.(”ğõÈüÿÿÿÿ8»ıœó0H`RMINORZ
+CODE_SMELL
