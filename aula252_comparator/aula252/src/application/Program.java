@@ -20,7 +20,7 @@ public class Program {
 		Comparator<Product> comp = (p1, p2) -> p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase());
 
 		list.sort(comp);
-		// list.sort(new MyComparator());
+		//list.sort(new MyComparator());
 
 		for (Product p : list) {
 			System.out.println(p);

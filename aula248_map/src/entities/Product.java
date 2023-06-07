@@ -44,6 +44,11 @@ public class Product {
 		Product other = (Product) obj;
 		return Objects.equals(name, other.name) && Objects.equals(price, other.price);
 	}
+
+//	@Override
+//	public String toString() {
+//		return "Product [name=" + name + ", price=" + price + "]";
+//	}
 	
 	
 

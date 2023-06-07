@@ -1,10 +1,10 @@
 
-d	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŸÕÊHèRMAJORZ
-CODE_SMELL
-d	java:S106-"9Replace this use of System.out or System.err by a logger.(È÷®èHêRMAJORZ
-CODE_SMELL
-d	java:S1061"9Replace this use of System.out or System.err by a logger.(äìÎÆHëRMAJORZ
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŸÕÊH¶RMAJORZ
 CODE_SMELL
 e
-java:S2864,"4Iterate over the "entrySet" instead of the "keySet".(ƒóÆüÿÿÿÿÿHéRMAJORZ
+java:S2864,"4Iterate over the "entrySet" instead of the "keySet".(ƒóÆüÿÿÿÿÿH·RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(È÷®èH¸RMAJORZ
+CODE_SMELL
+d	java:S1061"9Replace this use of System.out or System.err by a logger.(äìÎÆH¹RMAJORZ
 CODE_SMELL
