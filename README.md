@@ -17,7 +17,7 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 10. Comportamento de memória, arrays, listas
 11. Tópicos especiais em Java: data-hora
 12. Nivelamento sobre Git e Github
-13.Enumerações, composição
+13. Enumerações, composição
 14. Herança e polimorfismo
 15. Tratamento de exceções
 16. Projeto: Sistema jogo de xadrez
