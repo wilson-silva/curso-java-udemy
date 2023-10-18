@@ -25,3 +25,4 @@ em prática, e vai te permitir compreender como os tópicos se unem para a const
 18. Interfaces
 19. Generics, Set, Map
 20. Programação funcional e expressões lambda
+21. Acesso a banco de dados com JDBC
